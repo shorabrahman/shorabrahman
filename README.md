@@ -16,6 +16,7 @@
 
 - Web Application Security
 - SOC & Blue Team
+- Network Security & Networking
 - Active Directory
 - Malware Analysis
 
