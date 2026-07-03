@@ -1,6 +1,7 @@
 # Hi, I'm Shorab Rahman 👋
 
 🔐 Cybersecurity & AI Student
+🎓 American International University-Bangladesh (AIUB)
 
 ## About Me
 
