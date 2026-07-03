@@ -2,7 +2,7 @@
 
 🎓 American International University-Bangladesh (AIUB)
 
-🔐 Cybersecurity & AI Student
+🔐 Cybersecurity Student
 
 ## About Me
 
