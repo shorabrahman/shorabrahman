@@ -1,16 +1,116 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Shorab Rahman</h1>
 
-<!--
-**shorabrahman/shorabrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Cybersecurity & AI Student from Bangladesh 🇧🇩
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Learning Cybersecurity through hands-on labs, scripting, networking, and ethical hacking.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🔐 About Me
+
+- 🎓 AI Student
+- 🛡️ Aspiring Cybersecurity Engineer
+- 🐧 Linux Enthusiast
+- 🌐 Networking Learner
+- 💻 Learning Python, Java & C++
+- 📚 Currently studying Web Security and Ethical Hacking
+
+---
+
+# 🛠 Tech Stack
+
+## Programming
+
+- Python
+- Java
+- C++
+- Bash
+
+## Operating Systems
+
+- Kali Linux
+- Ubuntu
+- Windows
+
+## Networking
+
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- Wireshark
+- Nmap
+
+## Security
+
+- OWASP Top 10
+- Burp Suite
+- Metasploit
+- Hydra
+- John the Ripper
+- Nikto
+
+---
+
+# 📚 Currently Learning
+
+- Web Application Security
+- Active Directory
+- SOC Operations
+- Malware Analysis
+- Cloud Security
+- Digital Forensics
+
+---
+
+# 📂 Featured Projects
+
+- 🔐 Python Security Scripts
+- 🌐 Networking Labs
+- 🐧 Linux Automation
+- 📡 Nmap Scanner
+- 🔍 Log Analyzer
+- 🛡 Vulnerability Scanner
+- 🔒 Password Strength Checker
+- 🤖 AI Security Projects
+
+---
+
+# 📜 Future Certifications
+
+- Google Cybersecurity
+- CompTIA Security+
+- eJPT
+- PNPT
+- CEH
+- OSCP
+
+---
+
+# 🎯 2026 Goals
+
+- Complete 100+ TryHackMe Rooms
+- Build 25 Cybersecurity Projects
+- Learn Python for Security
+- Learn Active Directory
+- Start Open Source Contributions
+- Earn Security+
+
+---
+
+# 📫 Contact
+
+📧 Email:
+shorabrahman090@gmail.com
+
+Location:
+Bangladesh 🇧🇩
+
+---
+
+⭐ Always learning.
+⭐ Always building.
+⭐ Always improving.
